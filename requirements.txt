@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+feedparser==6.0.10
+aiohttp==3.9.1
+APScheduler==3.10.4
+pytz==2023.3
+beautifulsoup4==4.12.2
+lxml==4.9.3
